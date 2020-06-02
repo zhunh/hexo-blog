@@ -3,9 +3,8 @@ layout:     post
 title:      Vue和node在CentOS8中的运维
 subtitle:   笔记
 date:       2020-02-12
-author:     zhunh
-header-img: img/load.png
-catalog: true
+categories:	
+- Linux运维
 tags:
     - 运维
     - Linux

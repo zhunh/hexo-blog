@@ -3,15 +3,13 @@ layout:     post
 title:      TensorFlow常用函数
 subtitle:   初识笔记
 date:       2019-10-17
-author:     ZNH
-header-img: img/post-bg-cook.jpg
-catalog: true
+categories:	
+- 机器学习
 tags:
     - AI
     - TensorFlow
     - 深度学习
 ---
-### TensorFlow常用函数
 
 ##### 1.Session对象
 

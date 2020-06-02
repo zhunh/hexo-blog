@@ -3,16 +3,11 @@ layout:     post
 title:      JS中 null、undefined和NaN判断
 subtitle:   总结
 date:       2020-02-12
-author:     zhunh
-header-img: img/load.png
-catalog: true
+categories:	前端
 tags:
     - ES
     - 前端
 ---
-## JS中 null、undefined和NaN判断
-
-
 
 ### 1.null值
 

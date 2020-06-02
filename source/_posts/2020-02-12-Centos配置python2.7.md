@@ -3,19 +3,18 @@ layout:     post
 title:      Centos配置python2.7
 subtitle:   笔记
 date:       2020-02-12
-author:     zhunh
-header-img: img/load.png
-catalog: true
+categories:	
+- Linux运维
 tags:
     - 运维
     - Linux
 ---
-##Centos配置python2.7
 
 1.下载指定版本包
 ```shell
 wget http://python.org/ftp/python/2.7.14/Python-2.7.14.tar.xz
 ```
+...<!--more-->
 2.解压
 ```shell
 tar xf Python-2.7.14.tar.xz

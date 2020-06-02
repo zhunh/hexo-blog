@@ -3,14 +3,12 @@ layout:     post
 title:      Centos8中mongodb运维
 subtitle:   笔记
 date:       2020-02-12
-author:     zhunh
-header-img: img/load.png
-catalog: true
+categories:	
+- Linux运维
 tags:
     - 运维
     - Linux
 ---
-# Centos8中mongodb运维
 
 1.启动和停止
 ```shell

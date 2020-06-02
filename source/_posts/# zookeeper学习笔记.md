@@ -1,4 +1,12 @@
-# zookeeper学习笔记
+---
+layout:     post
+date:       2019-10-17
+categories:	
+- 机器学习
+tags:
+    - AI
+    - 机器学习
+---
 
 ## 1.zk客户端操作
 
@@ -7,6 +15,7 @@
 ./bin/zkCli.sh -timeout 5000 -r -server zk1:2181
 ./bin/zkCli.sh -timeout 5000 -r -server zk2:2181
 ```
+<!--more-->
 连接出问题参考http://wenda.chinahadoop.cn/question/2993
 1. create命令创建节点，一定要加数据
 ```sh

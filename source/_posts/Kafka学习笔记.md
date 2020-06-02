@@ -1,8 +1,16 @@
-# Kafka 学习
+---
+layout:     post
+date:       2020-02-12
+categories:	
+- 架构
+tags:
+    - kafka
+---
+
 ## 1.what？
 
 Kafka是一种高吞吐量的分布式发布订阅消息系统。
-
+<!--more-->
 ## 2.why?
 
 * 提高效率
