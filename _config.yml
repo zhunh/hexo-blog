@@ -138,3 +138,12 @@ live2d:
     # use: wanko # folder name in (hexo base dir)/live2d_models/
     # use: ./wives/wanko # folder path relative to hexo base dir
     # use: https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json # Your custom url
+# 搜索
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+# 配置 Rss 订阅
+Plugins: 
+- hexo-generate-feed  

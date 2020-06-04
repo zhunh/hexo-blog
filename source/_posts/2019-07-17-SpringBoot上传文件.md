@@ -4,10 +4,9 @@ date:       2019-07-17
 categories:	后端
 tags:
     - SpringBoot
-    - 服务端编程
+    - 后端
 ---
 
-> 测试blog[上传文件](https://zhunianhong.github.io/)
 >
 > 2019.7.17
 
@@ -57,12 +56,6 @@ transferTo(servfile);
 
 ![alt 博客图片](https://zhunianhong.github.io/img/goicon.png)
 
-> 表格
-
-| 编号 | 备注 |
-| :--- | ---- |
-| 1    | 电脑 |
-| 2    | 篮球 |
 
 
 
