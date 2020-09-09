@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zhunh's blog
+title: ZhuNH
 subtitle: ''
-description: 'i have a plan.'
+description: 'hi there, my friend.'
 keywords:
-author: Zhunh
+author: ZhuNH
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.zhunh.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -123,7 +123,7 @@ symbols_count_time:
   # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
 live2d:
-  enable: true
+  enable: false
   pluginRootPath: live2dw/ # Root path of plugin to be on the site (Relative)
   pluginJsPath: lib/ # JavaScript path related to plugin's root (Relative)
   pluginModelPath: assets/ # Relative model path related to plugin's root (Relative)
@@ -147,3 +147,5 @@ search:
 # 配置 Rss 订阅
 Plugins: 
 - hexo-generate-feed  
+# 百度分享服务
+baidushare: true

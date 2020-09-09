@@ -9,10 +9,12 @@ tags:
     - 运维
     - Linux
 ---
-###Vue 前端 + Nodejs（express） 后端在 CentOS8 中的运维
 
 ## 1.Nodejs后台
 使用pm2管理node进程
+
+<!--more-->
+
 ```shell
 启动进程/应用 pm2 start bin/www 或 pm2 start app.js
 结束进程/应用 pm2 stop www

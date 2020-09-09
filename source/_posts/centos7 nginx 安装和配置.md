@@ -14,6 +14,7 @@ yum install nginx
 ```
 安装目录：`/usr/sbin`
 配置目录：`/etc/nginx`
+
 <!--more-->
 
 ## 2.配置

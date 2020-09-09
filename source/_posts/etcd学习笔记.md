@@ -4,8 +4,8 @@ date:       2019-10-17
 categories:	
 - 后端
 tags:
-    - AI
-    - 机器学习
+		- 后端
+		- 架构
 ---
 
 ## 1.what？
@@ -18,11 +18,11 @@ tags:
 
 ## 3.how
 
-###3.1 安装
-各系统二进制文件下载https://github.com/etcd-io/etcd/releases
+### 3.1 安装
+各系统二进制文件下载[地址](https://github.com/etcd-io/etcd/releases)
 以macOS为例，下载下来的可执行二进制文件有etcd和etcdctl两个，复制到 /usr/local/bin 目录下即可。
 
-### 3.2命令行使用
+### 3.2 命令行使用
 ```shell
 $ etcdctl put foo 45  #写
 OK
