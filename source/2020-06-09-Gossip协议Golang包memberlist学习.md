@@ -1,6 +1,7 @@
 ---
 title: Gossip协议Golang包memberlist学习
 date: 2020-06-09 10:32:58
+categories:	Go
 tags:
 ---
 
